@@ -7,8 +7,8 @@
 <title>Image Display</title>
 </head>
 <body>
-    <h1>Unique Individual Concept</h1>
-    <img src="path_to_image.jpg" alt="A hand selecting a red wooden figure from a group of wooden figures, symbolizing the concept of choosing a unique individual from a crowd.">
+    <h1>Employee Attrition Rate</h1>
+    <img src="https://cultivateadvisors.com/wp-content/uploads/2023/03/employee-attrition-rate.jpg" alt="Employee Attrition Rate Image">
 </body>
 </html>
 
