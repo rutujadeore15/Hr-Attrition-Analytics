@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Employee Attrition Rate</h1>
+    <h1> Employee Attrition Rate</h1>
     <img src="https://cultivateadvisors.com/wp-content/uploads/2023/03/employee-attrition-rate.jpg" alt="Employee Attrition Rate Image">
 </body>
 </html>
