@@ -19,3 +19,5 @@
 ## Monthly Income and Overtime Impact:
 
 🕰️💼 When overtime is "No," the gap between monthly income (6835003 higher) and attrition count widens significantly.
+
+ # Dataset : https://mail.google.com/mail/u/0?ui=2&ik=22824f2f8b&attid=0.1&permmsgid=msg-f:1781186743021595094&th=18b80be7d86fe9d6&view=att&disp=inline&realattid=f_locxarwu0
