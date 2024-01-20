@@ -1,15 +1,8 @@
 # Hr-Attrition-Analytics
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
-    <h1> Employee Attrition Rate</h1>
-    <img src="https://cultivateadvisors.com/wp-content/uploads/2023/03/employee-attrition-rate.jpg" alt="Employee Attrition Rate Image">
-</body>
-</html>
+
+
+![hr](https://github.com/rutujadeore15/Hr-Attrition-Analytics/assets/140812073/4235f2ba-9db6-4525-a046-a6fab98a1fb0)
+
 
 
 ### Age Distribution:
